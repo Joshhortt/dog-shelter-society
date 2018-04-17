@@ -70,6 +70,16 @@ body {
    color: #fff;
  }
 
+ .gray-background {
+  background-color: gray;
+
+}
+
+.white-background {
+ background-color: white;
+
+}
+
 
  @media screen and (min-width: 320px) and (max-width: 480px) {
    body {
@@ -86,6 +96,7 @@ body {
      font-size: 14px;
      color: #444444;
    }
+
 
    .wildlife p {
      width: 270px;
@@ -115,6 +126,7 @@ body {
      font-size: 14px;
      color: #444444;
    }
+
 
    .wildlife p {
      width: 300px;
